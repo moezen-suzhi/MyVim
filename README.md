@@ -1,2 +1,2 @@
 # MyVim
-MyVim
+MyVim Configuration
